@@ -12,8 +12,8 @@ Tap PLAY, pick a level and start the battle. Choose a flower card, then tap a sa
 
 Progress is saved automatically on your device. Deleting the app can remove progress. There is no account or cloud synchronization.
 
-## Optional advertisements
+## Advertisements
 
-Unity Ads can be enabled or disabled in Settings. The game works without ads. Rewarded bonuses require the ad provider's confirmation; unavailable or skipped ads do not grant a bonus.
+Unity Ads initialize automatically. Interstitial ads may appear between completed levels (every fourth completed campaign level, no more than once per two minutes). Rewarded ads are voluntary and grant a bonus only after the provider confirms the reward. There is no switch to disable all ads. Offline play remains available when ads cannot load.
 
 [Privacy policy](PRIVACY.md)

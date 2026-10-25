@@ -14,6 +14,12 @@ Open FIELD GUIDE from the main menu for illustrated descriptions of all six plan
 
 The game starts with two lives and has a maximum of four, including bonuses. At most one reserve heart is used per attempt, only if it fits below the cap. Reserve capacity is three.
 
+## Language and display
+
+New installations start in English. Tap the globe on the main menu to choose from ten languages. Your saved selection is kept on future launches.
+
+The layout adapts to changing display and window sizes, including iPhone Duo. Opening, closing or rotating the device preserves the current game.
+
 ## Saved progress
 
 Progress is saved automatically on your device. Deleting the app can remove progress. There is no account or cloud synchronization.
